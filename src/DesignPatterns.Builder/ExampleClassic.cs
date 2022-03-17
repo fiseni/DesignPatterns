@@ -23,7 +23,6 @@ public class ExampleClassic
 
 public class Shop
 {
-    // Builder uses a complex series of steps
     public void Construct(VehicleBuilder vehicleBuilder)
     {
         vehicleBuilder.BuildFrame();
@@ -37,13 +36,11 @@ public abstract class VehicleBuilder
 {
     protected Vehicle vehicle = null!;
 
-    // Gets vehicle instance
     public Vehicle Vehicle
     {
         get { return vehicle; }
     }
 
-    // Abstract build methods
     public abstract void BuildFrame();
     public abstract void BuildEngine();
     public abstract void BuildWheels();
@@ -111,13 +108,11 @@ public class Vehicle
     private readonly string vehicleType;
     private readonly Dictionary<string, string> parts = new();
 
-    // Constructor
     public Vehicle(string vehicleType)
     {
         this.vehicleType = vehicleType;
     }
 
-    // Indexer
     public string this[string key]
     {
         get { return parts[key]; }

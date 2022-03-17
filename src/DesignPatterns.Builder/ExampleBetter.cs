@@ -1,6 +1,6 @@
-﻿namespace DesignPatterns.Builder.Optimized;
+﻿namespace DesignPatterns.Builder.Better;
 
-public class ExampleOptimized
+public class ExampleBetter
 {
     public void Run()
     {
