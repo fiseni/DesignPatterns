@@ -15,21 +15,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Builder", "s
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Strategy", "src\DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{9E49A4DE-4E38-4EDA-ADDF-B581CBA25463}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Factory", "DesignPatterns.Factory\DesignPatterns.Factory.csproj", "{89CE3715-3BA4-4D6C-92B7-18D635DE08B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Factory", "src\DesignPatterns.Factory\DesignPatterns.Factory.csproj", "{89CE3715-3BA4-4D6C-92B7-18D635DE08B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.AbstractFactory", "DesignPatterns.AbstractFactory\DesignPatterns.AbstractFactory.csproj", "{AE272ACC-72DA-4CF5-B3CD-BA6701B78B17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.AbstractFactory", "src\DesignPatterns.AbstractFactory\DesignPatterns.AbstractFactory.csproj", "{AE272ACC-72DA-4CF5-B3CD-BA6701B78B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Decorator", "DesignPatterns.Decorator\DesignPatterns.Decorator.csproj", "{75CF0F00-9B80-41C3-93C1-5BC32A58A628}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Decorator", "src\DesignPatterns.Decorator\DesignPatterns.Decorator.csproj", "{75CF0F00-9B80-41C3-93C1-5BC32A58A628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Proxy", "DesignPatterns.Proxy\DesignPatterns.Proxy.csproj", "{7F489807-CCA0-448F-8BA0-0EE4417D74FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Proxy", "src\DesignPatterns.Proxy\DesignPatterns.Proxy.csproj", "{7F489807-CCA0-448F-8BA0-0EE4417D74FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Adapter", "DesignPatterns.Adapter\DesignPatterns.Adapter.csproj", "{82C4DF3D-2AA6-4715-98D8-1D4B569FB1F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Adapter", "src\DesignPatterns.Adapter\DesignPatterns.Adapter.csproj", "{82C4DF3D-2AA6-4715-98D8-1D4B569FB1F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Bridge", "DesignPatterns.Bridge\DesignPatterns.Bridge.csproj", "{1B78E992-B6D6-40E1-A968-538C82AD680F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Bridge", "src\DesignPatterns.Bridge\DesignPatterns.Bridge.csproj", "{1B78E992-B6D6-40E1-A968-538C82AD680F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Facade", "DesignPatterns.Facade\DesignPatterns.Facade.csproj", "{B4164E7B-EE52-41D2-8D95-D78ED36E4FFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Facade", "src\DesignPatterns.Facade\DesignPatterns.Facade.csproj", "{B4164E7B-EE52-41D2-8D95-D78ED36E4FFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Observer", "DesignPatterns.Observer\DesignPatterns.Observer.csproj", "{9DF09D27-5A96-4D1F-B9D2-6FB85D422715}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Observer", "src\DesignPatterns.Observer\DesignPatterns.Observer.csproj", "{9DF09D27-5A96-4D1F-B9D2-6FB85D422715}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
