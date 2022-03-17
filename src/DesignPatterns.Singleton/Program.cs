@@ -1,6 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using DesignPatterns.Singleton;
+﻿using DesignPatterns.Singleton.Better;
+using DesignPatterns.Singleton.Classic;
 
 Console.WriteLine("The classic singleton implementation");
 new ExampleClassic().Run1();

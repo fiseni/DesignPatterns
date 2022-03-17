@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Singleton;
+﻿namespace DesignPatterns.Singleton.Better;
 
 public class ExampleBetter
 {

@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Singleton;
+﻿namespace DesignPatterns.Singleton.Classic;
 
 public class ExampleClassic
 {
